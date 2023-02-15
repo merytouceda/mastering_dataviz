@@ -7,7 +7,8 @@ Curated list of data visualization resources
 
 ## Magazines
 * [Nightindale](https://nightingaledvs.com/)
-
+* [Why scientists need to be better at data viz](https://knowablemagazine.org/article/mind/2019/science-data-visualization)
+* [The Pudding](https://pudding.cool/)
 
 ## Tutorials
 * [Maps in R](https://jtr13.github.io/cc19/different-ways-of-plotting-u-s-map-in-r.html)
